@@ -1,7 +1,1471 @@
 {
   "numbersList": [],
   "disabledDays": {},
-  "scheduledDays": [],
+  "scheduledDays": [
+    {
+      "date": "2025-05-12",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "08:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "10:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "10:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "14:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "15:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "16:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "16:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "17:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "17:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "18:00",
+          "available": false,
+          "client": {
+            "firstName": "Pedro ",
+            "lastName": "Lucas ",
+            "phone": "89999999",
+            "request": "Corte Degradê",
+            "id": 68819859533
+          }
+        },
+        {
+          "time": "18:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "19:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "19:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "20:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        }
+      ],
+      "id": 3
+    },
+    {
+      "date": "2025-05-07",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "08:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "10:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "14:30",
+          "available": false,
+          "client": {
+            "firstName": "Rerisson ",
+            "lastName": "Diogo ",
+            "phone": "88981926772",
+            "request": "Corte Degradê",
+            "id": 45000791487
+          }
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "15:30",
+          "available": false,
+          "client": {
+            "firstName": "ANTHONNY",
+            "lastName": "FERNANDES",
+            "phone": "88981489300",
+            "request": "Corte Americano",
+            "id": 49535268036
+          }
+        },
+        {
+          "time": "16:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "16:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:30",
+          "available": false,
+          "client": {
+            "firstName": "Grazielly ",
+            "lastName": "Lima Candido da Silva ",
+            "phone": "+55 85 9614-5325",
+            "request": "Corte Moicano",
+            "id": 55321826481
+          }
+        },
+        {
+          "time": "18:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "18:30",
+          "available": false,
+          "client": {
+            "firstName": "enzo ",
+            "lastName": "Magalhães sales",
+            "phone": "+5588921581887",
+            "request": "Corte Jaca",
+            "id": 65712128912
+          }
+        },
+        {
+          "time": "19:00",
+          "available": false,
+          "client": {
+            "firstName": "João ",
+            "lastName": "Paulo maia de oliveira Araujo ",
+            "phone": "+5588921581887",
+            "request": "Corte Moicano",
+            "id": 38396451291
+          }
+        },
+        {
+          "time": "19:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "20:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        }
+      ],
+      "id": 4
+    },
+    {
+      "date": "2025-05-14",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "08:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "10:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "14:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "15:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "16:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "16:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "18:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "18:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "19:00",
+          "available": false,
+          "client": {
+            "firstName": "MARCONDES",
+            "lastName": "Bezerra",
+            "phone": "88997302236",
+            "request": "Corte Degradê",
+            "id": 41275710951
+          }
+        },
+        {
+          "time": "19:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "20:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        }
+      ],
+      "id": 5
+    },
+    {
+      "date": "2025-05-06",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": false,
+          "client": {
+            "firstName": "John lennon ",
+            "lastName": "Menezes Paiva ",
+            "phone": "85999510796",
+            "request": "Corte Social",
+            "id": 26234691640
+          }
+        },
+        {
+          "time": "08:30",
+          "available": false,
+          "client": {
+            "firstName": "John lennon ",
+            "lastName": "Menezes Paiva ",
+            "phone": "85999510796",
+            "request": "Corte Social",
+            "id": 50233366853
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "10:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "14:30",
+          "available": false,
+          "client": {
+            "firstName": "Guilherme ",
+            "lastName": "Almeida ",
+            "phone": "(88)982171829",
+            "request": "Corte Degradê",
+            "id": 89773416973
+          }
+        },
+        {
+          "time": "15:00",
+          "available": false,
+          "client": {
+            "firstName": "Serafim",
+            "lastName": "Lucena ",
+            "phone": "85996437498",
+            "request": "Corte Degradê",
+            "id": 63551578297
+          }
+        },
+        {
+          "time": "15:30",
+          "available": false,
+          "client": {
+            "firstName": "Dangels",
+            "lastName": "Maia",
+            "phone": "84981832013",
+            "request": "Corte Social + Barba",
+            "id": 76351165544
+          }
+        },
+        {
+          "time": "16:00",
+          "available": false,
+          "client": {
+            "firstName": "Dangels",
+            "lastName": "Maia",
+            "phone": "84981832013",
+            "request": "Corte Social + Barba",
+            "id": 76351165544
+          }
+        },
+        {
+          "time": "16:30",
+          "available": false,
+          "client": {
+            "firstName": "ZÉ LUIS",
+            "lastName": "",
+            "phone": "88988891419",
+            "request": "CORTE SOCIAL "
+          }
+        },
+        {
+          "time": "17:00",
+          "available": false,
+          "client": {
+            "firstName": "Allan ",
+            "lastName": "Cauê ",
+            "phone": "8897975567",
+            "request": "Corte Moicano",
+            "id": 68012227684
+          }
+        },
+        {
+          "time": "17:30",
+          "available": false,
+          "client": {
+            "firstName": "Pedro lucas ",
+            "lastName": "Queiroz Almeida ",
+            "phone": "558897513187",
+            "request": "Corte Jaca",
+            "id": 40555426634
+          }
+        },
+        {
+          "time": "18:00",
+          "available": false,
+          "client": {
+            "firstName": "Grazielly",
+            "lastName": "Lima Candido da Silva ",
+            "phone": "+55859614-5325",
+            "request": "Corte Degradê",
+            "id": 27332999018
+          }
+        },
+        {
+          "time": "18:30",
+          "available": false,
+          "client": {
+            "firstName": "Marlon",
+            "lastName": "Candido",
+            "phone": "8881619699",
+            "request": "Corte Jaca + Sobrancelha",
+            "id": 46393998457
+          }
+        },
+        {
+          "time": "19:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": 46393998457
+          }
+        },
+        {
+          "time": "19:30",
+          "available": false,
+          "client": {
+            "firstName": "Pedro",
+            "lastName": "Yegor",
+            "phone": "8896208500",
+            "request": "Corte Jaca",
+            "id": 95927476194
+          }
+        },
+        {
+          "time": "20:00",
+          "available": false,
+          "client": {
+            "firstName": "Gabriel ",
+            "lastName": "Tavares ",
+            "phone": "88999751982",
+            "request": "Corte Social",
+            "id": 86429556090
+          }
+        }
+      ],
+      "id": 8
+    },
+    {
+      "date": "2025-05-08",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "08:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "10:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": "",
+            "id": -1
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "14:00",
+          "available": false,
+          "client": {
+            "firstName": "Andre ",
+            "lastName": "Vieira",
+            "phone": "88988962541",
+            "request": "Corte Degradê",
+            "id": 9001788581
+          }
+        },
+        {
+          "time": "14:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "15:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "16:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "16:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "17:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "17:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "18:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "18:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "19:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "19:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "20:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        }
+      ],
+      "id": 10
+    },
+    {
+      "date": "2025-05-10",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "08:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "available": false,
+          "client": {
+            "firstName": "Edicarlos",
+            "lastName": "Lima",
+            "phone": "88981856137",
+            "request": "Corte Degradê + Barba",
+            "id": 2981528584
+          }
+        },
+        {
+          "time": "10:30",
+          "available": false,
+          "client": {
+            "firstName": "Edicarlos",
+            "lastName": "Lima",
+            "phone": "88981856137",
+            "request": "Corte Degradê + Barba",
+            "id": 2981528584
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "13:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "13:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "14:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "15:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "16:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "16:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "17:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "17:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        },
+        {
+          "time": "18:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        }
+      ],
+      "id": 14
+    },
+    {
+      "date": "2025-05-31",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "08:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "10:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "13:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "13:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "14:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "15:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "16:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "16:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "18:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        }
+      ],
+      "id": 15
+    }
+  ],
   "adminLogin": {
     "password": "c2m7<£ahe3F5j#aFU+<40?6"
   }
