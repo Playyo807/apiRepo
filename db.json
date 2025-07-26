@@ -2152,6 +2152,205 @@
         }
       ],
       "id": 55
+    },
+    {
+      "date": "2025-07-31",
+      "slots": [
+        {
+          "time": "08:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "08:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "09:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "10:00",
+          "available": false,
+          "client": {
+            "firstName": "Nardyel ",
+            "lastName": "Alves ",
+            "phone": "5588996650970",
+            "request": "Corte Jaca + Sobrancelha",
+            "id": 82863811451,
+            "code": ""
+          }
+        },
+        {
+          "time": "10:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "11:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "11:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "14:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "14:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "15:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "15:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "16:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "16:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "17:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "18:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "18:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "19:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "19:30",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": ""
+          }
+        },
+        {
+          "time": "20:00",
+          "available": true,
+          "client": {
+            "firstName": "",
+            "lastName": "",
+            "phone": "",
+            "request": ""
+          }
+        }
+      ],
+      "id": 56
     }
   ],
   "scheduledDays2": [
